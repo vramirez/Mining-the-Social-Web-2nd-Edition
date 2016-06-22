@@ -43,7 +43,8 @@ packages = [
 
   # Install FuXi per https://code.google.com/p/fuxi/wiki/Installation_Testing
   "http://cheeseshop.python.org/packages/source/p/pyparsing/pyparsing-1.5.5.tar.gz",
-  "https://fuxi.googlecode.com/hg/layercake-python.tar.bz2",
+  #"https://fuxi.googlecode.com/hg/layercake-python.tar.bz2",
+  "/vagrant/layercake-python.tar.bz2",
   "https://pypi.python.org/packages/source/F/FuXi/FuXi-1.4.1.production.tar.gz",
 ]
 
